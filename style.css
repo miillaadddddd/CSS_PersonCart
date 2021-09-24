@@ -40,7 +40,10 @@ body {
   transition: filter 1s;
   display: flex;
   justify-content: center;
+  
   cursor: pointer;
+
+
 }
 
 .container .box:hover{
